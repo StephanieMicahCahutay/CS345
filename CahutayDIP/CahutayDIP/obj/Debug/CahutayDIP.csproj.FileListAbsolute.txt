@@ -7,3 +7,12 @@ C:\Users\Gecko\Documents\3RD YEAR C1\CS313\CahutayDIP\CahutayDIP\obj\Debug\Cahut
 C:\Users\Gecko\Documents\3RD YEAR C1\CS313\CahutayDIP\CahutayDIP\obj\Debug\CahutayDIP.csproj.CoreCompileInputs.cache
 C:\Users\Gecko\Documents\3RD YEAR C1\CS313\CahutayDIP\CahutayDIP\obj\Debug\CahutayDIP.exe
 C:\Users\Gecko\Documents\3RD YEAR C1\CS313\CahutayDIP\CahutayDIP\obj\Debug\CahutayDIP.pdb
+C:\Users\Gecko\Documents\3RD YEAR C1\CS345\Repositories\CS345\CahutayDIP\CahutayDIP\bin\Debug\CahutayDIP.exe
+C:\Users\Gecko\Documents\3RD YEAR C1\CS345\Repositories\CS345\CahutayDIP\CahutayDIP\bin\Debug\CahutayDIP.pdb
+C:\Users\Gecko\Documents\3RD YEAR C1\CS345\Repositories\CS345\CahutayDIP\CahutayDIP\obj\Debug\CahutayDIP.csproj.AssemblyReference.cache
+C:\Users\Gecko\Documents\3RD YEAR C1\CS345\Repositories\CS345\CahutayDIP\CahutayDIP\obj\Debug\CahutayDIP.Form1.resources
+C:\Users\Gecko\Documents\3RD YEAR C1\CS345\Repositories\CS345\CahutayDIP\CahutayDIP\obj\Debug\CahutayDIP.Properties.Resources.resources
+C:\Users\Gecko\Documents\3RD YEAR C1\CS345\Repositories\CS345\CahutayDIP\CahutayDIP\obj\Debug\CahutayDIP.csproj.GenerateResource.cache
+C:\Users\Gecko\Documents\3RD YEAR C1\CS345\Repositories\CS345\CahutayDIP\CahutayDIP\obj\Debug\CahutayDIP.csproj.CoreCompileInputs.cache
+C:\Users\Gecko\Documents\3RD YEAR C1\CS345\Repositories\CS345\CahutayDIP\CahutayDIP\obj\Debug\CahutayDIP.exe
+C:\Users\Gecko\Documents\3RD YEAR C1\CS345\Repositories\CS345\CahutayDIP\CahutayDIP\obj\Debug\CahutayDIP.pdb
