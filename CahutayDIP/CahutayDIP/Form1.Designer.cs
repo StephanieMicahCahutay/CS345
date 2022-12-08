@@ -48,6 +48,8 @@
             this.openFileDialog3 = new System.Windows.Forms.OpenFileDialog();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+            this.saveFileDialog2 = new System.Windows.Forms.SaveFileDialog();
+            this.saveResultImageToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -70,7 +72,8 @@
             // 
             this.fIleToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.openToolStripMenuItem,
-            this.saveToolStripMenuItem});
+            this.saveToolStripMenuItem,
+            this.saveResultImageToolStripMenuItem});
             this.fIleToolStripMenuItem.Name = "fIleToolStripMenuItem";
             this.fIleToolStripMenuItem.Size = new System.Drawing.Size(46, 24);
             this.fIleToolStripMenuItem.Text = "FIle";
@@ -85,8 +88,8 @@
             // saveToolStripMenuItem
             // 
             this.saveToolStripMenuItem.Name = "saveToolStripMenuItem";
-            this.saveToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.saveToolStripMenuItem.Text = "Save";
+            this.saveToolStripMenuItem.Size = new System.Drawing.Size(240, 26);
+            this.saveToolStripMenuItem.Text = "Save processed image";
             this.saveToolStripMenuItem.Click += new System.EventHandler(this.saveToolStripMenuItem_Click);
             // 
             // dIPToolStripMenuItem
@@ -213,6 +216,17 @@
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
+            // saveFileDialog2
+            // 
+            this.saveFileDialog2.FileOk += new System.ComponentModel.CancelEventHandler(this.saveFileDialog2_FileOk);
+            // 
+            // saveResultImageToolStripMenuItem
+            // 
+            this.saveResultImageToolStripMenuItem.Name = "saveResultImageToolStripMenuItem";
+            this.saveResultImageToolStripMenuItem.Size = new System.Drawing.Size(240, 26);
+            this.saveResultImageToolStripMenuItem.Text = "Save result image";
+            this.saveResultImageToolStripMenuItem.Click += new System.EventHandler(this.saveResultImageToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -260,6 +274,8 @@
         private System.Windows.Forms.OpenFileDialog openFileDialog3;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.SaveFileDialog saveFileDialog2;
+        private System.Windows.Forms.ToolStripMenuItem saveResultImageToolStripMenuItem;
     }
 }
 

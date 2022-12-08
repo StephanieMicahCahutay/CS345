@@ -223,6 +223,16 @@ namespace CahutayDIP
             pictureBox3.Image = resultImage;
         }
 
+        private void saveFileDialog2_FileOk(object sender, CancelEventArgs e)
+        {
+             resultImage.Save(saveFileDialog2.FileName);
+        }
+
+        private void saveResultImageToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            saveFileDialog2.ShowDialog();
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             openFileDialog2.ShowDialog();
